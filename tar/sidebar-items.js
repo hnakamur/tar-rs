@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Archive","A top-level representation of an archive file."],["File","A read-only view into a file of an archive."],["Files","An iterator over the files of an archive."],["FilesMut","An iterator over the files of an archive."],["Header","Representation of the header of a file in an archive"]]});
