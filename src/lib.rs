@@ -7,6 +7,7 @@
 //!
 //! [1]: http://en.wikipedia.org/wiki/Tar_%28computing%29
 
+#![feature(libc)]
 #![doc(html_root_url = "http://alexcrichton.com/tar-rs")]
 #![deny(missing_docs)]
 #![cfg_attr(feature = "nightly", feature(fs, metadata_ext))]
